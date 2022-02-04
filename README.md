@@ -47,7 +47,18 @@ Refer below sample
 
  ## A Postman collection and request sample
 
- 
+-Collage creations
+
+<img width="829" alt="Create Collages " src="https://user-images.githubusercontent.com/93571776/152493302-d67fa7b8-466f-4454-a32a-2f5d91fd77a0.png">
+
+-Interns Creations 
+
+<img width="839" alt="create intern" src="https://user-images.githubusercontent.com/93571776/152493363-846a4fba-0e2b-49ab-9d82-a63106af4f33.png">
+
+-Get All Interns With Collage Details 
+
+ <img width="848" alt="get all details of interns" src="https://user-images.githubusercontent.com/93571776/152493445-22f22cf8-a25e-440f-b4cf-1c52e47607cc.png">
+
 
 ## Response
 
